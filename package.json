@@ -1,6 +1,5 @@
 {
 	"name": "@jose-s/portfolio-ds",
-	"private": true,
 	"main": "lib/index.js",
 	"version": "0.1.0",
 	"repository": "git://github.com/Jose-S/Portfolio-Design-Language.git",
