@@ -1,6 +1,7 @@
 {
 	"name": "@jose-s/portfolio-ds",
-	"main": "lib/index.js",
+	"main": "build/diez-portfolio-ds-web/index.js",
+	"types": "build/diez-portfolio-ds-web/index.d.ts",
 	"version": "0.1.0",
 	"repository": "git://github.com/Jose-S/Portfolio-Design-Language.git",
 	"dependencies": {
